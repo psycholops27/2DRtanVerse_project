@@ -1395,7 +1395,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 569009387}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 883082808e9c4e54cbaeabec649239c5, type: 3}
+  m_Script: {fileID: 11500000, guid: df15a4d29b2b26b4cbe18a4dd0864c82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   flappyHighScoreText: {fileID: 1433255143}
@@ -6752,7 +6752,7 @@ GameObject:
   - component: {fileID: 1498408544}
   - component: {fileID: 1498408547}
   m_Layer: 0
-  m_Name: ScoreRemover
+  m_Name: ScoreRemove
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7377,7 +7377,7 @@ GameObject:
   - component: {fileID: 1878413021}
   - component: {fileID: 1878413024}
   m_Layer: 0
-  m_Name: ScoreMaster
+  m_Name: ScoreCheck
   m_TagString: ScoreMaster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

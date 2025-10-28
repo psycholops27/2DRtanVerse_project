@@ -14,7 +14,7 @@ public class TriggerController : MonoBehaviour
 
     public GameObject allScoreUI;
 
-    public ScoreDisplay scoreDisplay;
+    public ScoreUpdate scoreDisplay;
 
     void Start()
     {

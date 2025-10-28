@@ -16,7 +16,7 @@ public class FPObstacle : MonoBehaviour
 
     public float widthPadding = 4f;
 
-    public FPGameManager gameManager;
+    public FlappyManager gameManager;
 
     private void Start()
     {

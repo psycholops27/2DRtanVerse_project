@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class FPGameManager : MonoBehaviour
+public class FlappyManager : MonoBehaviour
 {
     public FPUIManager uiManager;
 

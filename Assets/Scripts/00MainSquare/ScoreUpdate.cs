@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ScoreDisplay : MonoBehaviour
+public class ScoreUpdate : MonoBehaviour
 {
     public TextMeshProUGUI flappyHighScoreText;
     public TextMeshProUGUI flappyLastScoreText;

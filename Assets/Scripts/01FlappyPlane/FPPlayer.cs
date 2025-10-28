@@ -13,7 +13,7 @@ public class FPPlayer : MonoBehaviour
 
     bool isFlap = false;
 
-    public FPGameManager gameManager;
+    public FlappyManager gameManager;
 
     void Start()
     {
