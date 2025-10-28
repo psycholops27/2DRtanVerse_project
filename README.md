@@ -13,7 +13,7 @@
 - **CollisionController**    :   특정 태그를 가진 GameObject와 접촉 시 특정 기능을 수행하게 하는 스크립트
 - **EnterMiniGame**          :   Inspector 창에서 Scene Name을 결정할 수 있게 하는, CollisionController의 보조 스크립트
 - **PlayerController**       :   Player(플레이어 캐릭터)의 2D 조작을 가능하게 하는 스크립트
-- **ScoreManager**           :   미니게임의 전체 스코어를 관리하는 스크립트
+- **ScoreManager**           :   전체 미니게임의 스코어를 관리하는 스크립트
 - **ScoreUpdate**            :   MainSquare의 ScoreUI가 켜질 때마다 점수를 업데이트하는 스크립트
 - **TriggerController**      :   플레이어가 트리거 영역 위에 올라왔을 때 특정 기능을 수행하게 하는 스크립트
 <br><br>
